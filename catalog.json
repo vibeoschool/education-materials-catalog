@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-23T06:52:42.480Z",
+  "updatedAt": "2026-07-23T07:18:31.383Z",
   "materials": [
+    {
+      "id": "APP-5ED6FA11967C",
+      "title": "미니앱 5종(타이머, 만화경, 순발력게임, 주사위 굴리기, 교실 자리배치)",
+      "description": "수업시간에 간단하게 쓰기 좋은 다양한 앱 모음",
+      "type": "교수학습자료",
+      "tags": [],
+      "subjects": [
+        "범교과"
+      ],
+      "author": "손영국",
+      "url": "https://app-sonyoungguk-playkit.vercel.app",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-5ED6FA11967C.png",
+      "staffOnly": false,
+      "updatedAt": "2026-07-23T07:18:19.719Z",
+      "status": "운영 중"
+    },
     {
       "id": "APP-12CD47C57BCA",
       "title": "중학교 과학 수업용 인터랙티브 시뮬레이션 모음",
