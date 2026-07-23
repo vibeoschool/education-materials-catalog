@@ -1,21 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-23T07:00:00.000Z",
+  "updatedAt": "2026-07-23T06:40:21.513Z",
   "materials": [
     {
       "id": "APP-12CD47C57BCA",
       "title": "중학교 과학 수업용 인터랙티브 시뮬레이션 모음",
       "description": "과학수업시간에 실험이 어려운 경우 시뮬레이션 할 수 있는 앱 모음",
       "type": "교수학습자료",
-      "tags": [
-        "탐구 활동",
-        "수업 활용"
-      ],
+      "tags": [],
       "subjects": [
         "과학"
       ],
       "author": "손영국",
       "url": "https://app-sonyoungguk-sciencelab.vercel.app",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-12CD47C57BCA.png",
       "staffOnly": false,
       "updatedAt": "2026-07-23T05:51:33.845Z",
       "status": "운영 중"
