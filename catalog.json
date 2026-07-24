@@ -1,7 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-24T01:44:10.119Z",
+  "updatedAt": "2026-07-24T02:32:05.456Z",
   "materials": [
+    {
+      "id": "APP-089F1B7401C8",
+      "title": "Book Universe",
+      "description": "학생 독서 기록장",
+      "type": "수업도구",
+      "tags": [
+        "기타"
+      ],
+      "subjects": [
+        "창의적 체험활동",
+        "기타"
+      ],
+      "author": "김수경",
+      "url": "https://skkim7007.github.io/book_universe/",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-089F1B7401C8.png",
+      "staffOnly": false,
+      "updatedAt": "2026-07-24T02:31:50.870Z",
+      "status": "운영 중"
+    },
     {
       "id": "APP-E45A9211D508",
       "title": "부산 특성화고등학교 탐색",
