@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-24T02:37:57.794Z",
+  "updatedAt": "2026-07-24T02:50:23.532Z",
   "materials": [
+    {
+      "id": "APP-2F0A844AE1E4",
+      "title": "다독다독 다이노(독서)",
+      "description": "독서기록장",
+      "type": "수업도구",
+      "tags": [],
+      "subjects": [
+        "국어",
+        "범교과"
+      ],
+      "author": "최은지",
+      "url": "https://app-chloechoiej-jpg-ocean_rd.vercel.app",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-2F0A844AE1E4.png",
+      "staffOnly": false,
+      "updatedAt": "2026-07-24T02:50:13.140Z",
+      "status": "운영 중"
+    },
     {
       "id": "APP-089F1B7401C8",
       "title": "Book Universe",
