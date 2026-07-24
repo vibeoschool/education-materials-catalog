@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-24T00:57:10.666Z",
+  "updatedAt": "2026-07-24T01:44:10.119Z",
   "materials": [
+    {
+      "id": "APP-E45A9211D508",
+      "title": "부산 특성화고등학교 탐색",
+      "description": "학생, 학부모, 교사 등 특성화고 정보 탐색이 필요할 때 편하게 활용할 수 있는 진로 탐색 자료입니다.",
+      "type": "교수학습자료",
+      "tags": [],
+      "subjects": [
+        "진로"
+      ],
+      "author": "문경희",
+      "url": "https://app-bombon38-busan-teukseonghwa.vercel.app",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-E45A9211D508.png",
+      "staffOnly": false,
+      "updatedAt": "2026-07-24T01:43:53.943Z",
+      "status": "운영 중"
+    },
     {
       "id": "APP-12CD47C57BCA",
       "title": "중학교 과학 수업용 인터랙티브 시뮬레이션 모음",
