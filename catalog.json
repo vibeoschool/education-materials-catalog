@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-24T02:34:57.959Z",
+  "updatedAt": "2026-07-24T02:37:57.794Z",
   "materials": [
     {
       "id": "APP-089F1B7401C8",
@@ -15,10 +15,10 @@
         "기타"
       ],
       "author": "김수경",
-      "url": "https://app-skkim7007-book_universe.vercel.app",
+      "url": "https://app-skkim7007-bookuniverse.vercel.app",
       "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-089F1B7401C8.png",
       "staffOnly": false,
-      "updatedAt": "2026-07-24T02:34:53.030Z",
+      "updatedAt": "2026-07-24T02:37:43.887Z",
       "status": "운영 중"
     },
     {
