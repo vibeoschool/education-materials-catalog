@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-24T02:50:23.532Z",
+  "updatedAt": "2026-07-24T02:51:48.477Z",
   "materials": [
     {
       "id": "APP-2F0A844AE1E4",
@@ -13,10 +13,10 @@
         "범교과"
       ],
       "author": "최은지",
-      "url": "https://app-chloechoiej-jpg-ocean_rd.vercel.app",
+      "url": "https://app-chloechoiej-jpg-oceanrd.vercel.app",
       "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-2F0A844AE1E4.png",
       "staffOnly": false,
-      "updatedAt": "2026-07-24T02:50:13.140Z",
+      "updatedAt": "2026-07-24T02:51:24.378Z",
       "status": "운영 중"
     },
     {
