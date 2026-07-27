@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T01:15:56.328Z",
+  "updatedAt": "2026-07-27T04:56:08.215Z",
   "materials": [
+    {
+      "id": "APP-12CD47C57BCA",
+      "title": "중학교 과학 수업용 인터랙티브 시뮬레이션 모음",
+      "description": "과학수업시간에 실험이 어려운 경우 시뮬레이션 할 수 있는 앱 모음",
+      "type": "교수학습자료",
+      "tags": [],
+      "subjects": [
+        "과학"
+      ],
+      "author": "손영국",
+      "url": "https://app-sonyoungguk-sciencelab.vercel.app",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-12CD47C57BCA.png",
+      "staffOnly": false,
+      "updatedAt": "2026-07-27T04:56:00.285Z",
+      "status": "운영 중"
+    },
     {
       "id": "APP-44A8F069EDF6",
       "title": "즐거운 미술시간",
@@ -68,22 +84,6 @@
       "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-E45A9211D508.png",
       "staffOnly": false,
       "updatedAt": "2026-07-24T01:43:53.943Z",
-      "status": "운영 중"
-    },
-    {
-      "id": "APP-12CD47C57BCA",
-      "title": "중학교 과학 수업용 인터랙티브 시뮬레이션 모음",
-      "description": "과학수업시간에 실험이 어려운 경우 시뮬레이션 할 수 있는 앱 모음",
-      "type": "교수학습자료",
-      "tags": [],
-      "subjects": [
-        "과학"
-      ],
-      "author": "손영국",
-      "url": "https://app-sonyoungguk-sciencelab.vercel.app",
-      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-12CD47C57BCA.png",
-      "staffOnly": false,
-      "updatedAt": "2026-07-24T00:57:03.769Z",
       "status": "운영 중"
     },
     {
