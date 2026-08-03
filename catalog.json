@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T23:29:14.987Z",
+  "updatedAt": "2026-08-03T01:06:42.734Z",
   "materials": [
+    {
+      "id": "APP-44A8F069EDF6",
+      "title": "즐거운 미술시간",
+      "description": "미술시간 이론 학습 후 실습 활용 사이트, 미술 진학 고등학교 및 대학교, 현재 미술시장 및 전시회 안내 등",
+      "type": "수업도구",
+      "tags": [],
+      "subjects": [
+        "미술"
+      ],
+      "author": "홍지연",
+      "url": "https://app-hongji33-artclass.vercel.app",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-44A8F069EDF6.png",
+      "staffOnly": false,
+      "updatedAt": "2026-08-03T01:06:28.437Z",
+      "status": "운영 중"
+    },
     {
       "id": "APP-12CD47C57BCA",
       "title": "중학교 과학 수업용 인터랙티브 시뮬레이션 모음",
@@ -32,22 +48,6 @@
       "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-5ED6FA11967C.png",
       "staffOnly": false,
       "updatedAt": "2026-08-01T04:33:54.483Z",
-      "status": "운영 중"
-    },
-    {
-      "id": "APP-44A8F069EDF6",
-      "title": "즐거운 미술시간",
-      "description": "미술시간 이론 학습 후 실습 활용 사이트, 미술 진학 고등학교 및 대학교, 현재 미술시장 및 전시회 안내 등",
-      "type": "수업도구",
-      "tags": [],
-      "subjects": [
-        "미술"
-      ],
-      "author": "홍지연",
-      "url": "https://app-hongji33-artclass.vercel.app",
-      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-44A8F069EDF6.png",
-      "staffOnly": false,
-      "updatedAt": "2026-07-27T01:15:40.403Z",
       "status": "운영 중"
     },
     {
