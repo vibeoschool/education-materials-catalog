@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T08:48:38.966Z",
+  "updatedAt": "2026-08-17T09:15:21.107Z",
   "materials": [
+    {
+      "id": "APP-1B63CC85520D",
+      "title": "팬플루트 음파 시각화 시뮬레이터",
+      "description": "팬플루트를 만들며 관 길이·진동수·파형의 관계를 탐구하는 중학교 음악 STEAM 시뮬레이터",
+      "type": "교수학습자료",
+      "tags": [],
+      "subjects": [
+        "음악"
+      ],
+      "author": "박혜란",
+      "url": "https://sky75-oss.github.io/-panflute-simulator/",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-1B63CC85520D.png",
+      "staffOnly": false,
+      "updatedAt": "2026-08-17T09:15:05.605Z",
+      "status": "운영 중"
+    },
+    {
+      "id": "APP-08966792ED6B",
+      "title": "문법도시 404",
+      "description": "품사와 문장성분을 미래 도시를 탐험하며 익히는 중학생용 국어 문법 액션 게임",
+      "type": "교수학습자료",
+      "tags": [],
+      "subjects": [
+        "국어"
+      ],
+      "author": "정영자 선생님, 오정훈 교감",
+      "url": "https://app-totoromaum-sentence-city-404.vercel.app",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-08966792ED6B.png",
+      "staffOnly": false,
+      "updatedAt": "2026-08-17T09:15:03.131Z",
+      "status": "운영 중"
+    },
     {
       "id": "APP-9B2A83DF31B6",
       "title": "별을 따는 원소술사",
@@ -16,22 +48,6 @@
       "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-9B2A83DF31B6.png",
       "staffOnly": false,
       "updatedAt": "2026-08-17T08:48:25.840Z",
-      "status": "운영 중"
-    },
-    {
-      "id": "APP-1B63CC85520D",
-      "title": "팬플루트 음파 시각화 시뮬레이터",
-      "description": "팬플루트를 만들며 관 길이·진동수·파형의 관계를 탐구하는 중학교 음악 STEAM 시뮬레이터",
-      "type": "교수학습자료",
-      "tags": [],
-      "subjects": [
-        "음악"
-      ],
-      "author": "박혜란",
-      "url": "https://sky75-oss.github.io/-panflute-simulator/",
-      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-1B63CC85520D.png",
-      "staffOnly": false,
-      "updatedAt": "2026-08-17T08:42:27.545Z",
       "status": "운영 중"
     },
     {
