@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T08:42:35.591Z",
+  "updatedAt": "2026-08-17T08:48:38.966Z",
   "materials": [
+    {
+      "id": "APP-9B2A83DF31B6",
+      "title": "별을 따는 원소술사",
+      "description": "과학 수업 시간에 원소 기호를 쉽고 재미있게 반복 연습하는 게임",
+      "type": "교수학습자료",
+      "tags": [],
+      "subjects": [
+        "과학"
+      ],
+      "author": "김현정",
+      "url": "https://app-notbad4843-cmd-element-game.vercel.app",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-9B2A83DF31B6.png",
+      "staffOnly": false,
+      "updatedAt": "2026-08-17T08:48:25.840Z",
+      "status": "운영 중"
+    },
     {
       "id": "APP-1B63CC85520D",
       "title": "팬플루트 음파 시각화 시뮬레이터",
