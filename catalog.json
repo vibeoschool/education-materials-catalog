@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T07:13:05.986Z",
+  "updatedAt": "2026-08-17T07:45:44.537Z",
   "materials": [
+    {
+      "id": "APP-1B63CC85520D",
+      "title": "팬플루트 음파 시각화 시뮬레이터",
+      "description": "팬플루트를 만들며 관 길이·진동수·파형의 관계를 탐구하는 중학교 음악 STEAM 시뮬레이터",
+      "type": "교수학습자료",
+      "tags": [],
+      "subjects": [
+        "음악"
+      ],
+      "author": "박혜란",
+      "url": "https://sky75-oss.github.io/-panflute-simulator/",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-1B63CC85520D.png",
+      "staffOnly": false,
+      "updatedAt": "2026-08-17T07:45:35.499Z",
+      "status": "운영 중"
+    },
     {
       "id": "APP-44A8F069EDF6",
       "title": "즐거운 미술시간",
