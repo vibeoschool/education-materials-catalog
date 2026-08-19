@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T18:48:05.966Z",
+  "updatedAt": "2026-08-19T18:54:23.685Z",
   "materials": [
+    {
+      "id": "APP-7770C8548ABA",
+      "title": "과학 시뮬레이션 학습실",
+      "description": "직접 실험 및 관찰이 어려운 과학 시뮬레이션 모음",
+      "type": "교수학습자료",
+      "tags": [],
+      "subjects": [
+        "과학"
+      ],
+      "author": "이미선",
+      "url": "https://app-ms4901-scsimulation.vercel.app",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-7770C8548ABA.png",
+      "staffOnly": false,
+      "updatedAt": "2026-08-19T18:54:12.250Z",
+      "status": "운영 중"
+    },
     {
       "id": "APP-1B63CC85520D",
       "title": "팬플루트 음파 시각화 시뮬레이터",
