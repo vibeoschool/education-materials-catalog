@@ -1,7 +1,25 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T18:54:23.685Z",
+  "updatedAt": "2026-08-19T18:57:57.924Z",
   "materials": [
+    {
+      "id": "APP-4DB0309166A8",
+      "title": "부산의 일자리 지도",
+      "description": "부산에 있는 다양한 분야의 공기업 및 코스피, 코스닥에 상장된 사기업들의 정보를 통해 부산의 일자리를 탐색해 볼 수 있음.",
+      "type": "교수학습자료",
+      "tags": [],
+      "subjects": [
+        "사회",
+        "기술·가정",
+        "진로"
+      ],
+      "author": "문경희",
+      "url": "https://app-bombon38-busan-jobs.vercel.app",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-4DB0309166A8.png",
+      "staffOnly": false,
+      "updatedAt": "2026-08-19T18:57:48.982Z",
+      "status": "운영 중"
+    },
     {
       "id": "APP-7770C8548ABA",
       "title": "과학 시뮬레이션 학습실",
