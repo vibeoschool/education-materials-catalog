@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T18:57:57.924Z",
+  "updatedAt": "2026-08-19T19:13:21.366Z",
   "materials": [
+    {
+      "id": "APP-1B63CC85520D",
+      "title": "팬플루트 음파 시각화 시뮬레이터",
+      "description": "팬플루트를 만들며 관 길이·진동수·파형의 관계를 탐구하는 중학교 음악 STEAM 시뮬레이터",
+      "type": "교수학습자료",
+      "tags": [],
+      "subjects": [
+        "음악"
+      ],
+      "author": "박혜란",
+      "url": "https://sky75-oss.github.io/-panflute-simulator/",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-1B63CC85520D.png",
+      "staffOnly": false,
+      "updatedAt": "2026-08-19T19:13:02.056Z",
+      "status": "운영 중"
+    },
     {
       "id": "APP-4DB0309166A8",
       "title": "부산의 일자리 지도",
@@ -34,22 +50,6 @@
       "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-7770C8548ABA.png",
       "staffOnly": false,
       "updatedAt": "2026-08-19T18:54:12.250Z",
-      "status": "운영 중"
-    },
-    {
-      "id": "APP-1B63CC85520D",
-      "title": "팬플루트 음파 시각화 시뮬레이터",
-      "description": "팬플루트를 만들며 관 길이·진동수·파형의 관계를 탐구하는 중학교 음악 STEAM 시뮬레이터",
-      "type": "교수학습자료",
-      "tags": [],
-      "subjects": [
-        "음악"
-      ],
-      "author": "박혜란",
-      "url": "https://sky75-oss.github.io/-panflute-simulator/",
-      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-1B63CC85520D.png",
-      "staffOnly": false,
-      "updatedAt": "2026-08-19T18:47:54.673Z",
       "status": "운영 중"
     },
     {
