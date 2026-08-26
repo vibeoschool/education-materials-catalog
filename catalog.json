@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T19:48:01.910Z",
+  "updatedAt": "2026-08-26T03:44:15Z",
   "materials": [
     {
       "id": "APP-1B63CC85520D",
@@ -93,7 +93,7 @@
       "subjects": [
         "국어"
       ],
-      "author": "정영자 선생님, 오정훈 교감",
+      "author": "오정훈 교감, 정영자 선생님, 하나리 선생님",
       "url": "https://app-totoromaum-sentence-city-404.vercel.app",
       "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-08966792ED6B.png",
       "staffOnly": false,
