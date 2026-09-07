@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T01:12:40.158Z",
+  "updatedAt": "2026-09-07T05:52:36.614Z",
   "materials": [
     {
       "id": "APP-1B63CC85520D",
@@ -15,7 +15,24 @@
       "url": "https://sky75-oss.github.io/-panflute-simulator/",
       "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-1B63CC85520D.png",
       "staffOnly": false,
-      "updatedAt": "2026-09-07T01:12:22.852Z",
+      "updatedAt": "2026-09-07T05:52:20.887Z",
+      "status": "운영 중"
+    },
+    {
+      "id": "APP-4B6D5941FA60",
+      "title": "새로 생기는 대학 학과",
+      "description": "학생, 학부모, 담임선생님, 진로선생님이 학생들의 진로 탐색을 위해 새로 생기고 있는 학과들의 특징을 탐색할 때 유용합니다",
+      "type": "교수학습자료",
+      "tags": [],
+      "subjects": [
+        "진로",
+        "범교과"
+      ],
+      "author": "문경희",
+      "url": "https://app-bombon38-new-major.vercel.app",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-4B6D5941FA60.png",
+      "staffOnly": false,
+      "updatedAt": "2026-09-07T05:52:16.067Z",
       "status": "운영 중"
     },
     {
