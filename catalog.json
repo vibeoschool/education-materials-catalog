@@ -1,7 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T08:44:52.114Z",
+  "updatedAt": "2026-09-24T13:50:05.523Z",
   "materials": [
+    {
+      "id": "APP-089F1B7401C8",
+      "title": "Book Universe",
+      "description": "영어 교과, 독서 동아리, 독서 에세이 수업 등 다양한 독서 활동에서 독서 후 감상평을 기록할 수 있는 앱입니다.",
+      "type": "수업도구",
+      "tags": [
+        "기타"
+      ],
+      "subjects": [
+        "창의적 체험활동",
+        "기타"
+      ],
+      "author": "김수경",
+      "url": "https://app-skkim7007-bookuniverse.vercel.app",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-089F1B7401C8.png",
+      "staffOnly": false,
+      "updatedAt": "2026-09-24T13:49:55.056Z",
+      "status": "운영 중"
+    },
     {
       "id": "APP-1B63CC85520D",
       "title": "팬플루트 음파 시각화 시뮬레이터",
@@ -15,7 +34,7 @@
       "url": "https://sky75-oss.github.io/-panflute-simulator/",
       "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-1B63CC85520D.png",
       "staffOnly": false,
-      "updatedAt": "2026-09-24T08:44:38.634Z",
+      "updatedAt": "2026-09-24T13:49:50.628Z",
       "status": "운영 중"
     },
     {
