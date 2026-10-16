@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T01:42:57.177Z",
+  "updatedAt": "2026-10-16T06:23:45.737Z",
   "materials": [
     {
       "id": "APP-1B63CC85520D",
@@ -15,7 +15,7 @@
       "url": "https://sky75-oss.github.io/-panflute-simulator/",
       "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-1B63CC85520D.png",
       "staffOnly": false,
-      "updatedAt": "2026-10-16T01:42:45.073Z",
+      "updatedAt": "2026-10-16T06:23:26.080Z",
       "status": "운영 중"
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://app-sonyoungguk-playkit.vercel.app",
       "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-5ED6FA11967C.png",
       "staffOnly": false,
-      "updatedAt": "2026-10-15T23:49:44.329Z",
+      "updatedAt": "2026-10-16T06:23:22.560Z",
       "status": "운영 중"
     },
     {
