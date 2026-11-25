@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T01:38:40.263Z",
+  "updatedAt": "2026-11-25T10:26:29.570Z",
   "materials": [
     {
       "id": "APP-1B63CC85520D",
@@ -15,7 +15,23 @@
       "url": "https://sky75-oss.github.io/-panflute-simulator/",
       "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-1B63CC85520D.png",
       "staffOnly": false,
-      "updatedAt": "2026-11-25T01:38:33.612Z",
+      "updatedAt": "2026-11-25T10:26:18.344Z",
+      "status": "운영 중"
+    },
+    {
+      "id": "APP-5ED6FA11967C",
+      "title": "미니앱 5종(타이머, 만화경, 순발력게임, 주사위 굴리기, 교실 자리배치)",
+      "description": "수업시간에 간단하게 쓰기 좋은 다양한 앱 모음",
+      "type": "수업도구",
+      "tags": [],
+      "subjects": [
+        "범교과"
+      ],
+      "author": "손영국",
+      "url": "https://app-sonyoungguk-playkit.vercel.app",
+      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-5ED6FA11967C.png",
+      "staffOnly": false,
+      "updatedAt": "2026-11-25T10:26:12.071Z",
       "status": "운영 중"
     },
     {
@@ -48,22 +64,6 @@
       "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-12CD47C57BCA.png",
       "staffOnly": false,
       "updatedAt": "2026-11-19T08:00:01.311Z",
-      "status": "운영 중"
-    },
-    {
-      "id": "APP-5ED6FA11967C",
-      "title": "미니앱 5종(타이머, 만화경, 순발력게임, 주사위 굴리기, 교실 자리배치)",
-      "description": "수업시간에 간단하게 쓰기 좋은 다양한 앱 모음",
-      "type": "수업도구",
-      "tags": [],
-      "subjects": [
-        "범교과"
-      ],
-      "author": "손영국",
-      "url": "https://app-sonyoungguk-playkit.vercel.app",
-      "thumbnail": "https://raw.githubusercontent.com/vibeoschool/education-materials-catalog/main/thumbnails/APP-5ED6FA11967C.png",
-      "staffOnly": false,
-      "updatedAt": "2026-11-19T00:45:36.709Z",
       "status": "운영 중"
     },
     {
